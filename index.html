@@ -165,7 +165,12 @@
         </main>
         <footer class="footer">
             <p>Developed by <a href="https://github.com/kodai-rr" target="_blank">Kōdai</a></p>
+            <p class="copyright">&copy; <span id="currentYear"></span> John Maroa. All rights reserved.</p>
         </footer>
     </div>
+    <script>
+        // Update copyright year automatically
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>

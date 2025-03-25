@@ -418,6 +418,13 @@ h3 {
     text-shadow: 0 2px 4px rgba(74, 144, 226, 0.2);
 }
 
+.footer .copyright {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+
 /* Print Styles */
 @media print {
     body {

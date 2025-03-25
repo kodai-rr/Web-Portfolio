@@ -11,6 +11,7 @@ A modern, responsive personal portfolio website showcasing my skills, experience
 - Contact information with direct links
 - Beautiful animations and hover effects
 - Print-friendly layout
+- Automatic copyright year update
 
 ## Technologies Used
 
@@ -56,6 +57,12 @@ To customize this portfolio for your own use:
 - LinkedIn: [John G. Maroa](https://www.linkedin.com/in/john-g-maroa/)
 - GitHub: [kodai-rr](https://github.com/kodai-rr)
 - Location: Nairobi, Kenya
+
+## Copyright
+
+© 2025 John Maroa. All rights reserved.
+
+The copyright year is automatically updated using JavaScript to always display the current year.
 
 ## License
 
