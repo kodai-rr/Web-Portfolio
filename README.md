@@ -37,7 +37,7 @@ portfolio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kodai-rr/portfolio.git
+git clone https://github.com/kodai-rr/Web-Portfolio.git
 ```
 
 2. Open `index.html` in your web browser to view the portfolio.
