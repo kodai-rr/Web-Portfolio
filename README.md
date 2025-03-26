@@ -54,7 +54,7 @@ To customize this portfolio for your own use:
 ## Contact
 
 - Email: jmtagare@gmail.com
-- LinkedIn: [John G. Maroa](https://www.linkedin.com/in/john-g-maroa/)
+- LinkedIn: [John Maroa](https://www.linkedin.com/in/john-g-maroa/)
 - GitHub: [kodai-rr](https://github.com/kodai-rr)
 - Location: Nairobi, Kenya
 
